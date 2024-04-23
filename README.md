@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Church app**
 
-- 👨‍💻 All of my projects are available at [muriisajohn.000webhostapp.com](muriisajohn.000webhostapp.com)
+- 👨‍💻 All of my projects are available at [muriisajohn.000webhostapp.com](http//muriisajohn.000webhostapp.com)
 
 - 💬 Ask me about **Web development**
 
