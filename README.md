@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muriisa John</h1>
 <h3 align="center">A passionate fullstack developer from Uganda</h3>
 
-- 🔭 I’m currently working on [A tourism agency website](bahari.000webshostapp.com)
+- 🔭 I’m currently working on [A tourism agency website](bahari.vercel.app)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Machine learning**
 
 - 🤝 I’m looking for help with **Church app**
 
-- 👨‍💻 All of my projects are available at [http//muriisajohn.000webhostapp.com](https://muriisajohn.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://muriisa.vercel.app](https://muriisa.vercel.app/)
 - 💬 Ask me about **Web development**
 
 - 📫 How to reach me **murisajon@gmail.com**
